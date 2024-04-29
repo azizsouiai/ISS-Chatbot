@@ -17,13 +17,6 @@ load_dotenv()
 # Check if the required environment variables are set
 required_env_vars = ["OPENAI_API_KEY", "LANGCHAIN_TRACING_V2", "LANGCHAIN_API_KEY"]
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "ls__633736314efd4e61b9a8be07ef37043b"
-
-
-
-
 
 import csv
 
