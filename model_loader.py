@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Check if the required environment variables are set
-required_env_vars = ["OPENAI_API_KEY", "LANGCHAIN_TRACING_V2", "LANGCHAIN_API_KEY"]
+required_env_vars = ["OPENAI_API_KEY", "LANGCHAIN_TRACING_V2", "LANGCHAIN_API_KEY", "MODEL_NAME"]
 
 
 import csv
@@ -54,7 +54,8 @@ vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings
 # Retrieve and generate using the relevant snippets of the blog.
 retriever = vectorstore.as_retriever()
 prompt = hub.pull("rlm/rag-prompt")
-llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+model_name = os.environ.get("MODEL_NAME")
+llm = ChatOpenAI(model_name=model_name, temperature=0)
 
 
 def format_docs(docs):
