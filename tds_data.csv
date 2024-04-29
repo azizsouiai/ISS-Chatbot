@@ -1,0 +1,96 @@
+id,reponse
+1,Ministère de l’Enseignement Supérieur					Université de Sousse		
+2,et de la Recherche Scienti que				Institut Supérieur des Sciences Appliquées			
+3,	----****----				et de Technologie de Sousse		
+4,						----****----	
+5,Emploi du temps ING-A2-GL-01							
+6,à partir de 29-04-2024							
+7,Jours	Début	Fin	Matière	Enseignant	Type	Salle	Régime
+8,ING-A2-GL-01-							
+9,1							
+10,1-Lundi							
+11,S1	08H30	10H00	Algorithmique et architectures parallèles-FI-GL-SE4	ALIMI TAHAR	TD	G20	QA
+12,S2	10H10	11H40	Sécurité des logiciels et des systèmes d'information-FI-GL-SE4	MTIBAA Riadh	C	G16	H
+13,S2	10H10	11H40	Sécurité des logiciels et des systèmes d'information-FI-GL-SE4	MTIBAA Riadh	TD	G16	H
+14,S4	13H50	15H20	Web 2.0 et Web 3.0-FI-GL-SE4	ZARROUK Elyes	C	K10	H
+15,S5	15H30	17H00	Algorithmique et architectures parallèles-FI-GL-SE4	ALIMI TAHAR	TP	G16	Z4
+16,S5	15H30	17H00	BD avancées-FI-GL-SE4	JAAFAR Roua	TP	G03	QA
+17,S6	17H10	18H40	Algorithmique et architectures parallèles-FI-GL-SE4	ALIMI TAHAR	TP	G16	Z4
+18,S6	17H10	18H40	BD avancées-FI-GL-SE4	JAAFAR Roua	TP	G03	QA
+19,2-Mardi							
+20,S1	08H30	10H00	BD avancées-FI-GL-SE4	ZOUARI Wiem	TD	I-16	H
+21,"S3	11H50	13H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	C	K13	H"
+22,"S3	11H50	13H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	TD	K13	H"
+23,S4	13H50	15H20	Outils et ateliers avancés de génie logiciel-FI-GL-SE4	MAHMOUD Rihem	TD	I-05	H
+24,S5	15H30	17H00	Développement de portail et d'outils de travail collaboratifs-FI-GL-SE4	ZARROUK Rim	TP	G10	QA
+25,S5	15H30	17H00	Mini Projet-FI-GL-SE4	BEN AHMED So ene	TP	G04	QB
+26,S6	17H10	18H40	Développement de portail et d'outils de travail collaboratifs-FI-GL-SE4	ZARROUK Rim	TP	G10	QA
+27,S6	17H10	18H40	Mini Projet-FI-GL-SE4	BEN AHMED So ene	TP	G04	QB
+28,3-Mercredi							
+29,S1	08H30	10H00	Entrepôts de données-FI-GL-SE4	BEN KAHLA Mayssa	TD	G18	QA
+30,S2	10H10	11H40	Commerce Electronique-FI-GL-SE4	GAMMOUDI Feriel	C	M05	H
+31,S3	11H50	13H20	Web 2.0 et Web 3.0-FI-GL-SE4	BEN AHMED So ene	TP	G03	QB
+32,"S3	11H50	13H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	TP	G13	QA"
+33,S4	13H50	15H20	Web 2.0 et Web 3.0-FI-GL-SE4	BEN AHMED So ene	TP	G03	QB
+34,"S4	13H50	15H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	TP	G13	QA"
+35,"S5	15H30	17H00	Architectures logicielles (multi-tiers, SOA,…) et principes de conception-FI-GL-	TAAMALLAH Aroua	TD	G16	QB"
+36,			SE4				
+37,4-Jeudi							
+38,S1	08H30	10H00	Anglais 4-FI-GL-SE4	DHOUKAR Aida	C	M08	H
+39,"S2	10H10	11H40	Architectures logicielles (multi-tiers, SOA,…) et principes de conception-FI-GL-	KHEMAJA Maha	C	G16	H"
+40,			SE4				
+41,S3	11H50	13H20	BD avancées-FI-GL-SE4	BARIKA KTATA Farah	C	I-05	H
+42,5-Vendredi							
+43,S1	08H30	10H00	Français 4-FI-GL-SE4	HASSINE Hela	C	K13	H
+44,S2	10H10	11H40	Entrepôts de données-FI-GL-SE4	KANZARI Dalel	C	Amphi: GOLLI	H
+45,						Salem	
+46,S3	11H50	13H20	Développement de portail et d'outils de travail collaboratifs-FI-GL-SE4	BEN MAKHLOUF	C	I-05	H
+47,				Aicha			
+48,Jours	Début	Fin	Matière	Enseignant	Type	Salle	Régime
+49,S4	13H50	15H20	Outils et ateliers avancés de génie logiciel-FI-GL-SE4	BELGACEM Selma	C	K12	H
+50,6-Samedi							
+51,S2	10H10	11H40	Algorithmique et architectures parallèles-FI-GL-SE4	ACHOUR Sami	C	I-05	H
+52,ING-A2-GL-01-							
+53,2							
+54,1-Lundi							
+55,S5	15H30	17H00	Algorithmique et architectures parallèles-FI-GL-SE4	ALIMI TAHAR	TP	G16	Z3
+56,S5	15H30	17H00	BD avancées-FI-GL-SE4	JAAFAR Roua	TP	G03	QB
+57,S6	17H10	18H40	Algorithmique et architectures parallèles-FI-GL-SE4	ALIMI TAHAR	TP	G16	Z3
+58,S6	17H10	18H40	BD avancées-FI-GL-SE4	JAAFAR Roua	TP	G03	QB
+59,2-Mardi							
+60,S5	15H30	17H00	Développement de portail et d'outils de travail collaboratifs-FI-GL-SE4	ZARROUK Rim	TP	G10	QB
+61,S5	15H30	17H00	Mini Projet-FI-GL-SE4	BEN AHMED So ene	TP	G04	QA
+62,S6	17H10	18H40	Développement de portail et d'outils de travail collaboratifs-FI-GL-SE4	ZARROUK Rim	TP	G10	QB
+63,S6	17H10	18H40	Mini Projet-FI-GL-SE4	BEN AHMED So ene	TP	G04	QA
+64,3-Mercredi							
+65,S3	11H50	13H20	Web 2.0 et Web 3.0-FI-GL-SE4	BEN AHMED So ene	TP	G03	QA
+66,"S3	11H50	13H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	TP	G13	QB"
+67,S4	13H50	15H20	Web 2.0 et Web 3.0-FI-GL-SE4	BEN AHMED So ene	TP	G03	QA
+68,"S4	13H50	15H20	Qualité, Audit, Gestion de projets (PMP)-FI-GL-SE4	JEGHAM Walid	TP	G13	QB"
+69,"<p _ngcontent-htv-c27=""""><h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"">Avis à tous les enseignants et étudiants :</h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"">Vous êtes invités à assiter&nbsp;à la journée organisée par le Club ATIA ISSATSO le mercredi 24 Avril à partir de 8h30 à l'Amphithéatre&nbsp;LAATIRI.</h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"">La journée est s<span style=""font-family: arial, sans-serif;"">ous le thème&nbsp;</span><strong style=""font-family: arial, sans-serif;""><span style=""color: #0000ff;"">« La transversalité de l’intelligence artificielle au diapason des quatre départements de l’ISSAT de Sousse : Richesse, Multidisciplinarité et Convergence »</span></strong><span style=""font-family: arial, sans-serif;"">.</span></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;""><strong style=""color: #741b47; font-family: arial, sans-serif;"">Le programme est riche et varié qui débutera&nbsp;à 9h par une conférence plénière qui sera assurée par&nbsp;<u>Professeur</u><u>&nbsp;Khaled GHEDIRA intitulée « L'IA entre mythes, phantasmes et réalités ».</u></strong></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;""><strong style=""font-family: arial, sans-serif;""><span style=""color: #000000;"">Ensuite,&nbsp;<u>différentes interventions par des éminents enseignants de l'SSAT,&nbsp;sont au planning, au tour des applications de l'IA dans les quatres départements</u>, ce qui est se fait et ce qui reste à faire pour&nbsp;<u>ouvrir les axes de recherche, de travail et de collaboration futures au sein de notre institution.</u></span></strong></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;""><strong style=""font-family: arial, sans-serif;""><span style=""color: #000000;"">Votre présence est requise et ne fera qu'enrichir la journée.</span></strong></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;""><strong style=""font-family: arial, sans-serif;""><span style=""color: #000000;"">Un formulaire d'inscription est mis à votre disposition :&nbsp;</span></strong></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;""><a style=""color: #1155cc; outline: none; list-style: none; margin: 0px; border-style: none; padding: 0px; border-width: 0px; box-sizing: border-box; display: inline; font-family: 'Segoe UI Historic', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px;"" role=""link"" href=""https://forms.gle/k5KoEGV3e3A3yRJL6?fbclid=IwAR1hmioSuaOfKHzco69AQNth468sbZriM_-RvJssrsQgNiefcX5IqTiub2k_aem_AaECT74ZuUk23y9bT2a8D0rcSs4fzmhVmluthszxh0koG3pWLGu4cALRxKUxzUrZtbmt5EDE3dRLs3zkbsOgzvty"" target=""_blank"" rel=""nofollow noopener noreferrer"" data-saferedirecturl=""https://www.google.com/url?q=https://forms.gle/k5KoEGV3e3A3yRJL6?fbclid%3DIwAR1hmioSuaOfKHzco69AQNth468sbZriM_-RvJssrsQgNiefcX5IqTiub2k_aem_AaECT74ZuUk23y9bT2a8D0rcSs4fzmhVmluthszxh0koG3pWLGu4cALRxKUxzUrZtbmt5EDE3dRLs3zkbsOgzvty&amp;source=gmail&amp;ust=1713516160941000&amp;usg=AOvVaw0mTlUsgt5ADZn28wa5OTp_"">https://forms.gle/<wbr>k5KoEGV3e3A3yRJL6</a><strong style=""font-family: arial, sans-serif;""><span style=""color: #000000;""><br></span></strong></h2>
+<h2 style=""color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"">Pour de plus amples informations vous&nbsp;pouvez consulter la page officielle du Club ATIA ISSATSO ou bien la page officielle de l'ATIA&nbsp; (<a style=""color: #1155cc;"" href=""https://www.facebook.com/ATIATunsie"" target=""_blank"" rel=""noopener"" data-saferedirecturl=""https://www.google.com/url?q=https://www.facebook.com/ATIATunsie&amp;source=gmail&amp;ust=1713516160941000&amp;usg=AOvVaw0QKkZ3GYn6hUS_xBrruefq"">https://www.facebook.com/<wbr>ATIATunsie</a>)</h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://issatso.rnu.tn/bo/storage/app/public/posts/April2024/banderole P.jpg"" alt=""""></p></p>							"
+70,"<blockquote>
+<p style=""text-align: left;""><strong><span style=""color: #333399;"">L'Institut supérieur des sciences appliquées et de technologie de Sousse ou ISSATSO</span></strong></p>
+<p style=""text-align: left;"">Un établissement scientifique relevant de l'Université de Sousse (Tunisie). Il est créé en application des dispositions du décret n°1385-2001 du 7 juin 2001.<br><br>L'institut ouvre ses portes dans les espaces réservés à l'Institut préparatoire aux études d'ingénieur et, dans ce cadre, le contenu de la bibliothèque et le matériel scientifique acquis durant les trois années de la vie de l'institut préparatoire sont exploités.<br><br>Il compte, en 2001-2002, trois filières d'une durée de trois années chacune :</p>
+<ul style=""text-align: left;"">
+<li>Technicien supérieur en génie mécanique.</li>
+<li>Technicien supérieur en génie électronique.</li>
+<li>Technicien supérieur en informatique.</li>
+</ul>
+<p style=""text-align: left;"">En 2002-2003, une nouvelle filière, couronnée par une maîtrise en informatique, est créée. Elle comporte quatre années d'études réparties en deux cycles d'une durée de deux ans chacun. En 2003-2004, deux nouvelles filières sont créées (durée de trois ans d'étude chacune) :</p>
+<ul style=""text-align: left;"">
+<li>Technicien supérieur en fluide et énergie</li>
+<li>Technicien supérieur en sécurité et contrôle industriel</li>
+</ul>
+<p>En 2004-2005, une nouvelle filière formant des ingénieurs en informatique (temps réel) est créé. Enfin, en 2005-2006, un master de recherche en sûreté et sécurité des systèmes industriels voit le jour.</p>
+</blockquote>							"
